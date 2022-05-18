@@ -22,6 +22,10 @@ Haurem de crear un programa per fer les gestions de Hooking, com a mínim ha de 
 
 Quan ens demanin afegir un client nou, haurem de demanar les respectives dades i afegir el client a la taula corresponent de la base de dades. Quan se’ns demani fer una nova reserva, haurem de recollir i mostrar les dades necessàries per tal que l’usuari pugui realitzar la reserva (seleccionar un client, un hotel, una de les habitacions de les que disposa l’hotel, data entrada, data sortida, calcular import…)
 
+Per realitzar aquesta pràctica es demana que es programi mitjançant la utilització de varies classes. Tindrem una classe estàtica DB_Utils que contindrà les dades de connexió a la base de dades i les operacions relatives a ella.
+Es demana també que implementem el patró DAO per accedir a les dades dels objectes. Per cada tipus de dada s’hauria de crear el seu patró DAO, i aquest serà qui farà les tasques necessaries per accedir a la informació corresponent.
+
+
 # Base de Dades
 
 La base de dades té l'estructura següent:
