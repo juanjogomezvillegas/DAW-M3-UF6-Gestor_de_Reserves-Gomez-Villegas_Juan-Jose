@@ -5,7 +5,7 @@ Gestor de Reserves d'un Hotel (programa CLI) fet amb Java, i fent servir Java (J
 - Afegir un Client.
 - Crear una Reserva.
 
-
+![imatge](https://user-images.githubusercontent.com/83291394/169150917-af7a7e63-a78e-4f25-99e4-14161c48e9ca.png)
 
 El Gestor de Reserves és una tasca de la UF6 del mòdul de programació de 2DAW.
 
