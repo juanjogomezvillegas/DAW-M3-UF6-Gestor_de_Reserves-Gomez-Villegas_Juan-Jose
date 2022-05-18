@@ -35,4 +35,3 @@ La base de dades té l'estructura següent:
 # Autor
 
 - Juan José Gómez Villegas
-- 
