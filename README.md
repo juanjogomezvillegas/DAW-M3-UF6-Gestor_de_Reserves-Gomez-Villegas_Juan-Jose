@@ -30,7 +30,7 @@ Es demana també que implementem el patró DAO per accedir a les dades dels obje
 
 La base de dades té l'estructura següent:
 
-
+![imatge](https://user-images.githubusercontent.com/83291394/169150657-1f4b1d3e-8edf-41f1-9484-53bdccf17232.png)
 
 # Autor
 
